@@ -15,4 +15,4 @@ This repository contains a collection of codemod scripts for use with
 
 For development I recommend using the ASTExplorer e.g. [http://astexplorer.net/#/Obk6NXAm1g](http://astexplorer.net/#/Obk6NXAm1g)
 
-Special thanks to @cpojer for introducing me to codemods and helping out with getting started. Checkout his collection of [codemods](https://github.com/cpojer/js-codemod).
+Special thanks to [@cpojer](https://github.com/cpojer) for introducing me to codemods and helping out with getting started. Checkout his collection of [codemods](https://github.com/cpojer/js-codemod).
